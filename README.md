@@ -5,7 +5,7 @@
   <p align="left">
     A Discord.JS Bot for censoring and logging blacklisted phrases.
     <br />
-    <a href="https://github.com/larkify/projects"><strong> »</strong></a>
+    <a href="https://larkx.xyz/discord"><strong>Join the Discord »</strong></a>
     <br />
     <br />
   </p>
