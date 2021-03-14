@@ -1,4 +1,4 @@
-# DJS-CensorBot
+# Tony | DJS-CensorBot
 <p align="left">
   <a href="https://larkx.xyz/discord">
     <img src="https://img.shields.io/discord/713029382461063232?color=%237289DA&style=for-the-badge"
