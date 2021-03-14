@@ -37,18 +37,19 @@ First, make sure you have all the required tools installed on your local machine
 
 ```bash
 # Clone the repository
-git clone https://github.com/TannerGabriel/discord-bot.git
+git clone https://github.com/larkify/djs-censorbot.git
 
 # Enter into the directory
-cd discord-bot/
+cd djs-censorbot/
 
 # Install the dependencies
 npm install
+npm install discord.js
 ```
 
 ### Configuration
 
-After cloning the project and installing all dependencies, you need to add your Discord API token in the config.json file.
+After cloning the project and installing all dependencies, you need to fill out the `config.js` file.
 
 ### Starting the application
 
