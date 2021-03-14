@@ -1,6 +1,6 @@
 <img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0;" alt="Discord.JS Tony | Censor Bot" src="https://media.discordapp.net/attachments/741659143273709588/820780173036617768/djs.png"> 
 
-# LarkX's Projects
+# Tony | Censor Bot
 
 <p align="left">
   <a href="https://larkx.xyz/discord">
