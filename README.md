@@ -28,7 +28,7 @@
 </p>
 
 
-## Installation
+## Installation & Configuration
 
 ```bash
 # Clone the repository
@@ -41,9 +41,6 @@ cd djs-censorbot/
 npm install
 npm install discord.js
 ```
-
-## Configuration
-
 After cloning the project and installing all dependencies, you need to fill out the `config.js` file.
 
 ## Starting the Bot
