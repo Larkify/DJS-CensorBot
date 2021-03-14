@@ -27,6 +27,11 @@
   </p>
 </p>
 
+## Requirements
+
+- [Node](https://nodejs.org/en/)
+- [NPM](https://www.npmjs.com/)
+- [Discord.JS](https://discord.js.org/)
 
 ## Installation & Configuration
 
