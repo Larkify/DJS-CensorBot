@@ -18,3 +18,30 @@
   </a>
 </p>
 
+## Getting started
+
+First, make sure you have all the required tools installed on your local machine then continue with these steps.
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/TannerGabriel/discord-bot.git
+
+# Enter into the directory
+cd discord-bot/
+
+# Install the dependencies
+npm install
+```
+
+### Configuration
+
+After cloning the project and installing all dependencies, you need to add your Discord API token in the config.json file.
+
+### Starting the application
+
+```bash
+node index.js
+```
+
