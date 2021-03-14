@@ -28,12 +28,7 @@
 </p>
 
 
-
-## Getting started
-
-First, make sure you have all the required tools installed on your local machine then continue with these steps.
-
-### Installation
+## Installation
 
 ```bash
 # Clone the repository
@@ -47,13 +42,16 @@ npm install
 npm install discord.js
 ```
 
-### Configuration
+## Configuration
 
 After cloning the project and installing all dependencies, you need to fill out the `config.js` file.
 
-### Starting the application
+## Starting the Bot
 
 ```bash
 node index.js
 ```
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
