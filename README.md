@@ -8,10 +8,6 @@
     <a href="https://larkx.xyz/discord"><strong>Join the Discord »</strong></a>
     <br />
     <br />
-    <a href="https://larkx.xyz/discord">
-    <img src="https://img.shields.io/discord/713029382461063232?color=%237289DA&style=for-the-badge"
-         alt="Discord">
-  </a>
   </p>
 </p>
 
