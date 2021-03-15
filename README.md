@@ -45,6 +45,7 @@ cd djs-censorbot/
 # Install the dependencies
 npm install
 npm install discord.js
+npm install moment
 ```
 After cloning the project and installing all dependencies, you need to fill out the `config.js` file.
 
