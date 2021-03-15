@@ -1,0 +1,21 @@
+{
+  "name": "DJS-CensorBot",
+  "version": "1.0.0",
+  "description": "<img width=\"170\" height=\"170\" align=\"left\" style=\"float: left; margin: 0 10px 0 0;\" alt=\"Discord.JS Tony | Censor Bot\" src=\"https://media.discordapp.net/attachments/741659143273709588/820780173036617768/djs.png\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+	"start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Larkify/DJS-CensorBot.git"
+  },
+  "keywords": [],
+  "author": "Kiran-LarkX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Larkify/DJS-CensorBot/issues"
+  },
+  "homepage": "https://github.com/Larkify/DJS-CensorBot#readme"
+}
